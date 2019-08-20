@@ -1,0 +1,134 @@
+1566286290474	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-incongnito" "--headless" "user-agent={\'user-agent\': \'Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.98 Safari/537.36\'}" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.LmBQUaLzew95"
+*** You are running in headless mode.
+1566286291194	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1566286291195	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1566286291195	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1566286291195	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1566286293416	Marionette	INFO	Listening on port 44081
+1566286293484	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: http://%(server)s/dummy/blocklist//buckets/monitor/collections/changes/records?_expected=%221566233826256%22 is not a valid URL..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:201:13
+
+JavaScript warning: https://static-exp1.licdn.com/sc/h/br/7pib9rhvcfmirvbt76s1flg2b, line 15416: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/br/7pib9rhvcfmirvbt76s1flg2b, line 15412: unreachable code after return statement
+JavaScript error: https://static-exp1.licdn.com/sc/h/br/comvpvwbrbupznqercou0ughs, line 1578: Error: Ember Data Request GET /voyager/api/voyagerGlobalAlerts returned a 999
+Payload (text/plain;charset=UTF-8)
+<html><head>
+<script type="text/javascript">
+window.onload = function() {
+  // Parse the tracking code from cookies.
+  var trk = "bf";
+  var trkInfo = "bf";
+  var cookies = document.cookie.split("; ");
+  for (var i = 0; i < cookies.length; ++i) {
+    if ((cookies[i].indexOf("trkCode=") == 0) && (cookies[i].length > 8)) {
+      trk = cookies[i].substring(8);
+    }
+    else if ((cookies[i].indexOf("trkInfo=") == 0) && (cookies[i].length > 8)) {
+      trkInfo = cookies[i].substring(8);
+    }
+  }
+
+  if (window.location.protocol == "http:") {
+    // If "sl" cookie is set, redirect to https.
+    for (var i = 0; i < cookies.length; ++i) {
+      if ((cookies[i].indexOf("sl=") == 0) && (cookies[i].length > 3)) {
+        window.location.href = "https:" + window.location.href.substring(window.location.protocol.length);
+        return;
+      }
+    }
+  }
+
+  // Get the new domain. For international domains such as
+  // fr.linkedin.com, we convert it to www.linkedin.com
+  var domain = "www.linkedin.com";
+  if (domain != location.host) {
+    var subdomainIndex = location.host.indexOf(".linkedin");
+    if (subdomainIndex != -1) {
+      domain = "www" + location.host.substring(subdomainIndex);
+    }
+  }
+
+  window.location.href = "https://" + domain + "/authwall?trk=" + trk + "&trkInfo=" + trkInfo +
+      "&originalReferer=" + document.referrer.substr(0, 200) +
+      "&sessionRedirect=" + encodeURIComponent(window.location.href);
+}
+</script>
+</head></html>
+[{"status":"999","title":"The backend responded with an error","detail":"<html><head>\n<script type=\"text/javascript\">\nwindow.onload = function() {\n  // Parse the tracking code from cookies.\n  var trk = \"bf\";\n  var trkInfo = \"bf\";\n  var cookies = document.cookie.split(\"; \");\n  for (var i = 0; i < cookies.length; ++i) {\n    if ((cookies[i].indexOf(\"trkCode=\") == 0) && (cookies[i].length > 8)) {\n      trk = cookies[i].substring(8);\n    }\n    else if ((cookies[i].indexOf(\"trkInfo=\") == 0) && (cookies[i].length > 8)) {\n      trkInfo = cookies[i].substring(8);\n    }\n  }\n\n  if (window.location.protocol == \"http:\") {\n    // If \"sl\" cookie is set, redirect to https.\n    for (var i = 0; i < cookies.length; ++i) {\n      if ((cookies[i].indexOf(\"sl=\") == 0) && (cookies[i].length > 3)) {\n        window.location.href = \"https:\" + window.location.href.substring(window.location.protocol.length);\n        return;\n      }\n    }\n  }\n\n  // Get the new domain. For international domains such as\n  // fr.linkedin.com, we convert it to www.linkedin.com\n  var domain = \"www.linkedin.com\";\n  if (domain != location.host) {\n    var subdomainIndex = location.host.indexOf(\".linkedin\");\n    if (subdomainIndex != -1) {\n      domain = \"www\" + location.host.substring(subdomainIndex);\n    }\n  }\n\n  window.location.href = \"https://\" + domain + \"/authwall?trk=\" + trk + \"&trkInfo=\" + trkInfo +\n      \"&originalReferer=\" + document.referrer.substr(0, 200) +\n      \"&sessionRedirect=\" + encodeURIComponent(window.location.href);\n}\n</script>\n</head></html>"}]
+1566287222230	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.zJazBpfF8gTF"
+1566287222875	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1566287222875	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1566287222876	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1566287222876	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1566287225050	Marionette	INFO	Listening on port 44805
+1566287225145	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static-exp1.licdn.com/sc/h/br/7pib9rhvcfmirvbt76s1flg2b, line 15416: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/br/7pib9rhvcfmirvbt76s1flg2b, line 15412: unreachable code after return statement
+JavaScript error: https://static-exp1.licdn.com/sc/h/br/comvpvwbrbupznqercou0ughs, line 1578: Error: Ember Data Request GET /voyager/api/voyagerGlobalAlerts returned a 999
+Payload (text/plain;charset=UTF-8)
+<html><head>
+<script type="text/javascript">
+window.onload = function() {
+  // Parse the tracking code from cookies.
+  var trk = "bf";
+  var trkInfo = "bf";
+  var cookies = document.cookie.split("; ");
+  for (var i = 0; i < cookies.length; ++i) {
+    if ((cookies[i].indexOf("trkCode=") == 0) && (cookies[i].length > 8)) {
+      trk = cookies[i].substring(8);
+    }
+    else if ((cookies[i].indexOf("trkInfo=") == 0) && (cookies[i].length > 8)) {
+      trkInfo = cookies[i].substring(8);
+    }
+  }
+
+  if (window.location.protocol == "http:") {
+    // If "sl" cookie is set, redirect to https.
+    for (var i = 0; i < cookies.length; ++i) {
+      if ((cookies[i].indexOf("sl=") == 0) && (cookies[i].length > 3)) {
+        window.location.href = "https:" + window.location.href.substring(window.location.protocol.length);
+        return;
+      }
+    }
+  }
+
+  // Get the new domain. For international domains such as
+  // fr.linkedin.com, we convert it to www.linkedin.com
+  var domain = "www.linkedin.com";
+  if (domain != location.host) {
+    var subdomainIndex = location.host.indexOf(".linkedin");
+    if (subdomainIndex != -1) {
+      domain = "www" + location.host.substring(subdomainIndex);
+    }
+  }
+
+  window.location.href = "https://" + domain + "/authwall?trk=" + trk + "&trkInfo=" + trkInfo +
+      "&originalReferer=" + document.referrer.substr(0, 200) +
+      "&sessionRedirect=" + encodeURIComponent(window.location.href);
+}
+</script>
+</head></html>
+[{"status":"999","title":"The backend responded with an error","detail":"<html><head>\n<script type=\"text/javascript\">\nwindow.onload = function() {\n  // Parse the tracking code from cookies.\n  var trk = \"bf\";\n  var trkInfo = \"bf\";\n  var cookies = document.cookie.split(\"; \");\n  for (var i = 0; i < cookies.length; ++i) {\n    if ((cookies[i].indexOf(\"trkCode=\") == 0) && (cookies[i].length > 8)) {\n      trk = cookies[i].substring(8);\n    }\n    else if ((cookies[i].indexOf(\"trkInfo=\") == 0) && (cookies[i].length > 8)) {\n      trkInfo = cookies[i].substring(8);\n    }\n  }\n\n  if (window.location.protocol == \"http:\") {\n    // If \"sl\" cookie is set, redirect to https.\n    for (var i = 0; i < cookies.length; ++i) {\n      if ((cookies[i].indexOf(\"sl=\") == 0) && (cookies[i].length > 3)) {\n        window.location.href = \"https:\" + window.location.href.substring(window.location.protocol.length);\n        return;\n      }\n    }\n  }\n\n  // Get the new domain. For international domains such as\n  // fr.linkedin.com, we convert it to www.linkedin.com\n  var domain = \"www.linkedin.com\";\n  if (domain != location.host) {\n    var subdomainIndex = location.host.indexOf(\".linkedin\");\n    if (subdomainIndex != -1) {\n      domain = \"www\" + location.host.substring(subdomainIndex);\n    }\n  }\n\n  window.location.href = \"https://\" + domain + \"/authwall?trk=\" + trk + \"&trkInfo=\" + trkInfo +\n      \"&originalReferer=\" + document.referrer.substr(0, 200) +\n      \"&sessionRedirect=\" + encodeURIComponent(window.location.href);\n}\n</script>\n</head></html>"}]
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: http://%(server)s/dummy/blocklist//buckets/monitor/collections/changes/records?_expected=%221566233826256%22 is not a valid URL..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:201:13
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x53000E,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x530005,name=PHttpChannel::Msg_Cancel) Closed channel: cannot send/recv
+
+[Parent 36046, Gecko_IOThread] WARNING: pipe error (79): Connection reset by peer: file /build/firefox-qCOyDf/firefox-68.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+[Parent 36046, Gecko_IOThread] WARNING: pipe error (80): Connection reset by peer: file /build/firefox-qCOyDf/firefox-68.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+1566287666104	Marionette	INFO	Stopped listening on port 44805
