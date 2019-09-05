@@ -37,6 +37,6 @@ nosetests.xml
 .project
 .pydevproject
 .idea
-
+try/
 .settings/org.eclipse.core.resources.prefs
 venv/
