@@ -1,0 +1,1000 @@
+IBM,https://www.linkedin.com/company/1009/
+微軟公司,https://www.linkedin.com/company/1035/
+惠普企業服務（香港）有限公司,https://www.linkedin.com/company/1025/
+HP,https://www.linkedin.com/company/5390798/
+寶潔公司,https://www.linkedin.com/company/1116/
+戴爾股份有限公司,https://www.linkedin.com/company/1093/
+輝瑞,https://www.linkedin.com/company/1185/
+奇異公司,https://www.linkedin.com/company/1015/
+花旗,https://www.linkedin.com/company/11448/
+Chevron,https://www.linkedin.com/company/2192/
+美國銀行,https://www.linkedin.com/company/1123/
+強生公司,https://www.linkedin.com/company/1207/
+摩根大通,https://www.linkedin.com/company/1068/
+沃爾瑪,https://www.linkedin.com/company/2646/
+福特汽車公司,https://www.linkedin.com/company/1483/
+埃克森美孚有限公司,https://www.linkedin.com/company/1689/
+AT&T,https://www.linkedin.com/company/1052/
+通用汽車,https://www.linkedin.com/company/1472/
+J.P. 摩根,https://www.linkedin.com/company/1067/
+高盛,https://www.linkedin.com/company/1382/
+波音公司,https://www.linkedin.com/company/1384/
+Target,https://www.linkedin.com/company/1512/
+蘋果公司,https://www.linkedin.com/company/162479/
+GE醫療集團,https://www.linkedin.com/company/1016/
+ConocoPhillips,https://www.linkedin.com/company/3600/
+UPS,https://www.linkedin.com/company/1523/
+萬宙商信股份有限公司（Verizon台灣分公司）,https://www.linkedin.com/company/1103/
+GE Power,https://www.linkedin.com/company/1021/
+開拓重工,https://www.linkedin.com/company/2622/
+The Home Depot,https://www.linkedin.com/company/1534/
+UnitedHealth Group,https://www.linkedin.com/company/1720/
+美國通用金融（香港）有限公司,https://www.linkedin.com/company/1023/
+NBCUniversal Media, LLC,https://www.linkedin.com/company/1828/
+陶氏化學,https://www.linkedin.com/company/2562/
+思科,https://www.linkedin.com/company/1063/
+CVS Health,https://www.linkedin.com/company/4680/
+華納兄弟,https://www.linkedin.com/company/2470/
+百事公司,https://www.linkedin.com/company/1431/
+State Farm ®,https://www.linkedin.com/company/2381/
+Verizon Business,https://www.linkedin.com/company/1094/
+Walgreens,https://www.linkedin.com/company/3589/
+大都會人壽,https://www.linkedin.com/company/2213/
+Lowe's Companies, Inc.,https://www.linkedin.com/company/4128/
+可口可樂,https://www.linkedin.com/company/1694/
+Sears Holdings Corporation,https://www.linkedin.com/company/1944/
+HBO,https://www.linkedin.com/company/4749/
+The Janssen Pharmaceutical Companies of Johnson & Johnson,https://www.linkedin.com/company/1204/
+英特爾公司,https://www.linkedin.com/company/1053/
+Costco Wholesale,https://www.linkedin.com/company/163225/
+谷歌,https://www.linkedin.com/company/1441/
+McKesson,https://www.linkedin.com/company/1900/
+華特迪士尼公司,https://www.linkedin.com/company/1292/
+Cardinal Health,https://www.linkedin.com/company/2162/
+雅培,https://www.linkedin.com/company/1612/
+AOL,https://www.linkedin.com/company/1258/
+Mphasis,https://www.linkedin.com/company/3586/
+Kroger,https://www.linkedin.com/company/4914/
+漢威聯合股份有限公司,https://www.linkedin.com/company/1344/
+3M,https://www.linkedin.com/company/1864/
+透納廣播公司,https://www.linkedin.com/company/2047/
+Lockheed Martin,https://www.linkedin.com/company/1319/
+Safeway,https://www.linkedin.com/company/3498/
+Marathon Oil Corporation,https://www.linkedin.com/company/6631/
+億滋食品股份有限公司,https://www.linkedin.com/company/1511/
+美國運通,https://www.linkedin.com/company/1277/
+WarnerMedia,https://www.linkedin.com/company/1000/
+Pratt & Whitney,https://www.linkedin.com/company/2425/
+江森自控,https://www.linkedin.com/company/2247/
+甲骨文,https://www.linkedin.com/company/1028/
+UPS Supply Chain Solutions,https://www.linkedin.com/company/1524/
+Anthem, Inc.,https://www.linkedin.com/company/2619/
+Avanade,https://www.linkedin.com/company/3033/
+United Technologies,https://www.linkedin.com/company/2426/
+摩托羅拉,https://www.linkedin.com/company/1066/
+Primerica,https://www.linkedin.com/company/4416/
+Amazon,https://www.linkedin.com/company/1586/
+梅西,https://www.linkedin.com/company/2300/
+Northrop Grumman,https://www.linkedin.com/company/1412/
+台灣杜邦股份有限公司,https://www.linkedin.com/company/2155/
+Dow AgroSciences,https://www.linkedin.com/company/2564/
+Sam's Club,https://www.linkedin.com/company/7556/
+Best Buy,https://www.linkedin.com/company/2127/
+Carrier Corporation,https://www.linkedin.com/company/2429/
+Valero Energy Corporation,https://www.linkedin.com/company/252536/
+John Deere,https://www.linkedin.com/company/3789/
+瑞士商菲利普莫里斯股份有限公司,https://www.linkedin.com/company/1912/
+Coca-Cola FEMSA,https://www.linkedin.com/company/163134/
+奧的斯,https://www.linkedin.com/company/4928/
+斯普林特公司,https://www.linkedin.com/company/1106/
+華特迪士尼世界,https://www.linkedin.com/company/166865/
+艾默生,https://www.linkedin.com/company/2753/
+耐克,https://www.linkedin.com/company/2029/
+Comcast,https://www.linkedin.com/company/1703/
+聯邦快遞,https://www.linkedin.com/company/1669/
+Travelers,https://www.linkedin.com/company/3088/
+Dell EMC,https://www.linkedin.com/company/1128/
+HCA Healthcare,https://www.linkedin.com/company/3626/
+Halliburton,https://www.linkedin.com/company/2217/
+Hess Corporation,https://www.linkedin.com/company/5458/
+全錄公司,https://www.linkedin.com/company/1373/
+Alcoa,https://www.linkedin.com/company/3047/
+Oxy,https://www.linkedin.com/company/165370/
+Walt Disney Television,https://www.linkedin.com/company/1299/
+Aetna, a CVS Health Company,https://www.linkedin.com/company/2807/
+Humana,https://www.linkedin.com/company/4257/
+Baker Hughes, a GE company,https://www.linkedin.com/company/4334/
+聯邦快遞,https://www.linkedin.com/company/1671/
+默克藥廠,https://www.linkedin.com/company/1486/
+紐約人壽,https://www.linkedin.com/company/3432/
+保德信金融集團,https://www.linkedin.com/company/1852/
+艾默生網路能源有限公司,https://www.linkedin.com/company/2761/
+CSC,https://www.linkedin.com/company/1120/
+Ingram Micro,https://www.linkedin.com/company/2576/
+ManpowerGroup,https://www.linkedin.com/company/1799/
+萬豪國際集團,https://www.linkedin.com/company/2311/
+美林,https://www.linkedin.com/company/1178/
+International Paper,https://www.linkedin.com/company/3242/
+VMware,https://www.linkedin.com/company/2988/
+General Dynamics,https://www.linkedin.com/company/1904/
+麥當勞公司,https://www.linkedin.com/company/2677/
+禮來公司,https://www.linkedin.com/company/1663/
+Walt Disney Animation Studios,https://www.linkedin.com/company/1294/
+Jacobs,https://www.linkedin.com/company/4025/
+The Walt Disney Studios,https://www.linkedin.com/company/444310/
+美敦力,https://www.linkedin.com/company/1841/
+Fluor Corporation,https://www.linkedin.com/company/3681/
+百時美施貴寶公司,https://www.linkedin.com/company/1773/
+Sysco,https://www.linkedin.com/company/5343/
+Coca-Cola Hellenic Bottling Company,https://www.linkedin.com/company/5596/
+Bloomingdale's,https://www.linkedin.com/company/162731/
+百特,https://www.linkedin.com/company/2371/
+金百利克拉克,https://www.linkedin.com/company/3439/
+美國國際集團,https://www.linkedin.com/company/1760/
+Eaton,https://www.linkedin.com/company/2599/
+Capital One,https://www.linkedin.com/company/1419/
+Tyson Foods,https://www.linkedin.com/company/166551/
+Coca-Cola Amatil,https://www.linkedin.com/company/163132/
+美商高通國際股份有限公司,https://www.linkedin.com/company/2017/
+Kellogg Company,https://www.linkedin.com/company/3922/
+高露潔棕欖有限公司,https://www.linkedin.com/company/2748/
+美國航空公司,https://www.linkedin.com/company/2640/
+雷神公司,https://www.linkedin.com/company/1505/
+Amgen,https://www.linkedin.com/company/2068/
+Delta Air Lines,https://www.linkedin.com/company/2272/
+Murphy Oil Corporation,https://www.linkedin.com/company/42740/
+Cummins Inc.,https://www.linkedin.com/company/3625/
+Gap Inc.,https://www.linkedin.com/company/1677/
+德州儀器,https://www.linkedin.com/company/1397/
+KBR, Inc.,https://www.linkedin.com/company/2219/
+維亞康姆,https://www.linkedin.com/company/1884/
+Monsanto Company,https://www.linkedin.com/company/3422/
+U.S. Bank,https://www.linkedin.com/company/2532/
+National Oilwell Varco,https://www.linkedin.com/company/165109/
+美國聯合航空公司,https://www.linkedin.com/company/2380/
+通用磨坊股份有限公司,https://www.linkedin.com/company/2822/
+YouTube,https://www.linkedin.com/company/16140/
+Coca-Cola European Partners,https://www.linkedin.com/company/3182/
+L3 Technologies,https://www.linkedin.com/company/2810/
+ZF Group,https://www.linkedin.com/company/3745/
+Delphi,https://www.linkedin.com/company/2211/
+Lear Corporation,https://www.linkedin.com/company/3701/
+The Goodyear Tire & Rubber Company,https://www.linkedin.com/company/3915/
+Sun Microsystems,https://www.linkedin.com/company/1062/
+香港星巴克,https://www.linkedin.com/company/2271/
+Whirlpool Corporation,https://www.linkedin.com/company/2551/
+富道,https://www.linkedin.com/company/1767/
+達信,https://www.linkedin.com/company/1874/
+Northwestern Mutual,https://www.linkedin.com/company/2445/
+Aramark,https://www.linkedin.com/company/2815/
+Southwest Airlines,https://www.linkedin.com/company/4599/
+Anadarko Petroleum Corporation,https://www.linkedin.com/company/5844/
+潘尼百貨,https://www.linkedin.com/company/3688/
+Devon Energy,https://www.linkedin.com/company/6848/
+Staples,https://www.linkedin.com/company/3019/
+USAA,https://www.linkedin.com/company/4501/
+Nationwide,https://www.linkedin.com/company/2340/
+美商必丕志國際股份有限公司,https://www.linkedin.com/company/4857/
+雅虎,https://www.linkedin.com/company/1288/
+Duke Energy Corporation,https://www.linkedin.com/company/4066/
+Parker Hannifin,https://www.linkedin.com/company/4591/
+Conagra Brands,https://www.linkedin.com/company/3493/
+Oliver Wyman,https://www.linkedin.com/company/2454/
+DIRECTV,https://www.linkedin.com/company/3744/
+Aflac,https://www.linkedin.com/company/3997/
+信諾集團,https://www.linkedin.com/company/2490/
+捷普集團,https://www.linkedin.com/company/4852/
+Apache Corporation,https://www.linkedin.com/company/420506/
+唐納利,https://www.linkedin.com/company/2730/
+Chesapeake Energy,https://www.linkedin.com/company/163009/
+Express Scripts,https://www.linkedin.com/company/4969/
+Office Depot,https://www.linkedin.com/company/3114/
+SunTrust,https://www.linkedin.com/company/2692/
+Publix Super Markets,https://www.linkedin.com/company/7242/
+TRS Staffing Solutions,https://www.linkedin.com/company/28480/
+Fannie Mae,https://www.linkedin.com/company/19722/
+Waste Management,https://www.linkedin.com/company/204770/
+ADP,https://www.linkedin.com/company/1463/
+Yum! Brands,https://www.linkedin.com/company/3409/
+Kelly Services,https://www.linkedin.com/company/2307/
+The TJX Companies, Inc.,https://www.linkedin.com/company/5121/
+喜達屋酒店及度假村國際集團,https://www.linkedin.com/company/3035/
+空氣化工產品有限公司,https://www.linkedin.com/company/4156/
+雅芳,https://www.linkedin.com/company/2614/
+Union Pacific Railroad,https://www.linkedin.com/company/5992/
+Progressive Insurance,https://www.linkedin.com/company/3264/
+CBRE,https://www.linkedin.com/company/2319/
+BNSF Railway,https://www.linkedin.com/company/162749/
+JACOBS DOUWE EGBERTS,https://www.linkedin.com/company/2234/
+Bell Flight,https://www.linkedin.com/company/3337/
+賽門鐵克公司,https://www.linkedin.com/company/1231/
+CH2M,https://www.linkedin.com/company/3739/
+Amazon Lab126,https://www.linkedin.com/company/208137/
+史賽克有限公司,https://www.linkedin.com/company/3282/
+艾睿電子股份有限公司,https://www.linkedin.com/company/3570/
+SAIC,https://www.linkedin.com/company/1614/
+雷夫羅倫有限公司,https://www.linkedin.com/company/4688/
+貝萊德,https://www.linkedin.com/company/4764/
+雅詩蘭黛集團,https://www.linkedin.com/company/4059/
+Visa,https://www.linkedin.com/company/2190/
+eBay,https://www.linkedin.com/company/1481/
+Nordstrom,https://www.linkedin.com/company/3379/
+Danaher Corporation,https://www.linkedin.com/company/157261/
+Tech Data,https://www.linkedin.com/company/2699/
+Cameron, a Schlumberger company,https://www.linkedin.com/company/162873/
+高知特 Cognizant,https://www.linkedin.com/company/1680/
+PayPal,https://www.linkedin.com/company/1482/
+荷商波士頓科技有限公司,https://www.linkedin.com/company/1637/
+The Kraft Heinz Company,https://www.linkedin.com/company/164197/
+Whole Foods Market,https://www.linkedin.com/company/157353/
+URS Corporation, An AECOM Company,https://www.linkedin.com/company/4284/
+優利系統公司,https://www.linkedin.com/company/1281/
+萬事達卡,https://www.linkedin.com/company/3015/
+安訊資訊,https://www.linkedin.com/company/1467/
+Victoria's Secret,https://www.linkedin.com/company/2251/
+洛克威爾自動化,https://www.linkedin.com/company/2498/
+賽默飛世爾,https://www.linkedin.com/company/3081/
+AMD,https://www.linkedin.com/company/1497/
+博通,https://www.linkedin.com/company/3072/
+必帝股份有限公司,https://www.linkedin.com/company/3102/
+FMC Technologies,https://www.linkedin.com/company/163853/
+Kiewit,https://www.linkedin.com/company/9585/
+安捷倫科技,https://www.linkedin.com/company/1526/
+Fiserv,https://www.linkedin.com/company/3364/
+Sheraton Hotels & Resorts,https://www.linkedin.com/company/3034/
+藝康企業股份有限公司,https://www.linkedin.com/company/4713/
+The New York Times,https://www.linkedin.com/company/4236/
+Adobe,https://www.linkedin.com/company/1480/
+埃森哲,https://www.linkedin.com/company/1033/
+宏達國際電子股份有限公司,https://www.linkedin.com/company/164236/
+Gilead Sciences,https://www.linkedin.com/company/163993/
+應用材料公司,https://www.linkedin.com/company/2018/
+飛思卡爾半導體,https://www.linkedin.com/company/1959/
+威富公司,https://www.linkedin.com/company/4670/
+The North Face, a VF Company,https://www.linkedin.com/company/4667/
+Quest Diagnostics,https://www.linkedin.com/company/4727/
+Dollar General,https://www.linkedin.com/company/8211/
+L Brands,https://www.linkedin.com/company/2250/
+PetSmart,https://www.linkedin.com/company/165454/
+BB&T,https://www.linkedin.com/company/4672/
+Virgin Media,https://www.linkedin.com/company/260133/
+First Data Corporation,https://www.linkedin.com/company/2020/
+Charles Schwab,https://www.linkedin.com/company/1855/
+Grainger,https://www.linkedin.com/company/3863/
+勤業眾信,https://www.linkedin.com/company/1038/
+美泰公司,https://www.linkedin.com/company/3214/
+富蘭克林坦伯頓基金集團,https://www.linkedin.com/company/3676/
+紐威爾樂柏美,https://www.linkedin.com/company/157237/
+聯合利華,https://www.linkedin.com/company/1248/
+艾利丹尼森,https://www.linkedin.com/company/3321/
+CenturyLink,https://www.linkedin.com/company/4955/
+Mylan,https://www.linkedin.com/company/14264/
+殼牌,https://www.linkedin.com/company/1271/
+Hertz,https://www.linkedin.com/company/4326/
+Vans, a VF Company,https://www.linkedin.com/company/166767/
+Northern Trust Corporation,https://www.linkedin.com/company/3831/
+仲量聯行,https://www.linkedin.com/company/3178/
+The Hartford,https://www.linkedin.com/company/2467/
+新美亞工業系統有限公司,https://www.linkedin.com/company/4374/
+Harris Corporation,https://www.linkedin.com/company/2067/
+Rockwell Collins,https://www.linkedin.com/company/3959/
+美光科技有限公司,https://www.linkedin.com/company/3690/
+C.H.羅賓遜全世界公司,https://www.linkedin.com/company/162987/
+西聯匯款,https://www.linkedin.com/company/2019/
+Campbell Soup Company,https://www.linkedin.com/company/4513/
+AGCO Corporation,https://www.linkedin.com/company/9021/
+華碩,https://www.linkedin.com/company/162564/
+The Hershey Company,https://www.linkedin.com/company/166377/
+LinkedIn,https://www.linkedin.com/company/1337/
+Expeditors,https://www.linkedin.com/company/5650/
+雀巢公司,https://www.linkedin.com/company/1393/
+DaVita Kidney Care,https://www.linkedin.com/company/6487/
+W飯店,https://www.linkedin.com/company/13247/
+Westin Hotels & Resorts,https://www.linkedin.com/company/3038/
+NetApp,https://www.linkedin.com/company/2105/
+Newmont Goldcorp Corporation,https://www.linkedin.com/company/8917/
+安永,https://www.linkedin.com/company/1073/
+Harley-Davidson Motor Company,https://www.linkedin.com/company/164123/
+Robert Half,https://www.linkedin.com/company/1681/
+Sherwin-Williams,https://www.linkedin.com/company/165944/
+Insight,https://www.linkedin.com/company/2305/
+Ross Stores, Inc.,https://www.linkedin.com/company/7032/
+塔塔諮詢服務公司,https://www.linkedin.com/company/1353/
+Huge,https://www.linkedin.com/company/225538/
+碧辟股份有限公司,https://www.linkedin.com/company/1389/
+Bath & Body Works,https://www.linkedin.com/company/2252/
+資誠聯合會計師事務所,https://www.linkedin.com/company/1044/
+Western Digital,https://www.linkedin.com/company/4593/
+BorgWarner Inc.,https://www.linkedin.com/company/7896/
+iHeartMedia,https://www.linkedin.com/company/2539/
+美商藝電,https://www.linkedin.com/company/1449/
+Hays,https://www.linkedin.com/company/3486/
+聯發科,https://www.linkedin.com/company/17763/
+S&P Global,https://www.linkedin.com/company/2934/
+Bed Bath & Beyond,https://www.linkedin.com/company/7174/
+Facebook,https://www.linkedin.com/company/10667/
+瞻博網路,https://www.linkedin.com/company/2240/
+Siemens,https://www.linkedin.com/company/1043/
+Sealed Air Corporation,https://www.linkedin.com/company/7663/
+Autoliv,https://www.linkedin.com/company/5949/
+Harvard Business Review,https://www.linkedin.com/company/1649/
+CA Technologies,https://www.linkedin.com/company/1372/
+Huntsman Corporation,https://www.linkedin.com/company/5649/
+Ryder System, Inc.,https://www.linkedin.com/company/4453/
+XTO Energy,https://www.linkedin.com/company/20081/
+TED Conferences,https://www.linkedin.com/company/610087/
+愛立信,https://www.linkedin.com/company/1060/
+施蘭卜吉國際油田服務公司,https://www.linkedin.com/company/1468/
+滙豐（台灣）商業銀行股份有限公司,https://www.linkedin.com/company/1241/
+麥肯錫公司,https://www.linkedin.com/company/1371/
+D.R. Horton,https://www.linkedin.com/company/7479/
+印孚瑟斯,https://www.linkedin.com/company/1283/
+Booking.com,https://www.linkedin.com/company/11348/
+Discovery Inc,https://www.linkedin.com/company/2928/
+Expedia Group,https://www.linkedin.com/company/2751/
+諾華公司,https://www.linkedin.com/company/1406/
+Wipro Limited,https://www.linkedin.com/company/1318/
+Allergan,https://www.linkedin.com/company/4832/
+荷商葛蘭素史克藥廠,https://www.linkedin.com/company/1399/
+凱捷,https://www.linkedin.com/company/157240/
+萊雅,https://www.linkedin.com/company/1662/
+華為技術有限公司,https://www.linkedin.com/company/3014/
+NVIDIA,https://www.linkedin.com/company/3608/
+SAP,https://www.linkedin.com/company/1115/
+湯森路透,https://www.linkedin.com/company/1400/
+米高蒲志國際（香港）有限公司,https://www.linkedin.com/company/3476/
+美國陸軍,https://www.linkedin.com/company/1223/
+Forbes,https://www.linkedin.com/company/5597/
+施耐德電機,https://www.linkedin.com/company/2329/
+三星電子,https://www.linkedin.com/company/1753/
+李維斯公司,https://www.linkedin.com/company/3137/
+歐特克,https://www.linkedin.com/company/1879/
+蒂芙尼,https://www.linkedin.com/company/166448/
+Total,https://www.linkedin.com/company/1818/
+沃達豐集團,https://www.linkedin.com/company/1217/
+賽諾菲-安萬特集團,https://www.linkedin.com/company/1642/
+富國銀行,https://www.linkedin.com/company/1235/
+National Geographic,https://www.linkedin.com/company/165106/
+ABB,https://www.linkedin.com/company/277579/
+Coach,https://www.linkedin.com/company/5618/
+飛利浦,https://www.linkedin.com/company/1090/
+Convergys,https://www.linkedin.com/company/2159/
+經濟學人,https://www.linkedin.com/company/166368/
+華爾街日報,https://www.linkedin.com/company/2282/
+Live Nation Entertainment,https://www.linkedin.com/company/6593/
+HCL Technologies,https://www.linkedin.com/company/1756/
+渣打銀行,https://www.linkedin.com/company/2235/
+Danone,https://www.linkedin.com/company/2238/
+美商天睿資訊系統有限公司,https://www.linkedin.com/company/1466/
+Intuit,https://www.linkedin.com/company/1666/
+Calvin Klein,https://www.linkedin.com/company/162866/
+英國廣播公司,https://www.linkedin.com/company/1762/
+Petrobras,https://www.linkedin.com/company/4120/
+Salesforce,https://www.linkedin.com/company/3185/
+Edward Jones,https://www.linkedin.com/company/3677/
+美國鳳凰城大學,https://www.linkedin.com/company/3050/
+Burger King Corporation,https://www.linkedin.com/company/162835/
+TIME,https://www.linkedin.com/company/1748/
+Business Insider,https://www.linkedin.com/company/683279/
+Entrepreneur Media,https://www.linkedin.com/company/13370/
+Sanofi Genzyme,https://www.linkedin.com/company/3802/
+聯合國,https://www.linkedin.com/company/1860/
+TripAdvisor,https://www.linkedin.com/company/15027/
+彭博資訊,https://www.linkedin.com/company/2494/
+瑞士信貸,https://www.linkedin.com/company/1284/
+United States Air Force,https://www.linkedin.com/company/157235/
+DHL,https://www.linkedin.com/company/1355/
+Celgene,https://www.linkedin.com/company/8348/
+德意志銀行,https://www.linkedin.com/company/1262/
+H&R Block,https://www.linkedin.com/company/3671/
+Weatherford,https://www.linkedin.com/company/166897/
+Oceaneering,https://www.linkedin.com/company/11727/
+BMC Software,https://www.linkedin.com/company/1597/
+畢馬威,https://www.linkedin.com/company/1079/
+Urban Outfitters,https://www.linkedin.com/company/8280/
+藝珂集團,https://www.linkedin.com/company/1929/
+三達通訊,https://www.linkedin.com/company/1625/
+萊富生命科技,https://www.linkedin.com/company/2861/
+英國阿斯利康,https://www.linkedin.com/company/1603/
+拜耳集團,https://www.linkedin.com/company/1893/
+摩根士丹利,https://www.linkedin.com/company/497017/
+Tesla,https://www.linkedin.com/company/15564/
+Emirates,https://www.linkedin.com/company/5042/
+羅氏診斷,https://www.linkedin.com/company/1602/
+聖猷達醫療用品,https://www.linkedin.com/company/4345/
+波士頓資訊公司,https://www.linkedin.com/company/1784/
+Epsilon,https://www.linkedin.com/company/3776/
+Biogen,https://www.linkedin.com/company/3961/
+Warner Music Group,https://www.linkedin.com/company/4781/
+希爾頓酒店集團,https://www.linkedin.com/company/2449/
+DynCorp International,https://www.linkedin.com/company/7005/
+Saks Fifth Avenue,https://www.linkedin.com/company/157315/
+Abercrombie & Fitch Co.,https://www.linkedin.com/company/5410/
+土生金銀行,https://www.linkedin.com/company/2873/
+Mashable,https://www.linkedin.com/company/200000/
+Saudi Aramco,https://www.linkedin.com/company/5098/
+US Navy,https://www.linkedin.com/company/1335/
+Vale,https://www.linkedin.com/company/163306/
+巴斯夫股份有限公司,https://www.linkedin.com/company/2633/
+Hospira,https://www.linkedin.com/company/164218/
+寰宇藥品資料管理,https://www.linkedin.com/company/3331/
+諾基亞,https://www.linkedin.com/company/1070/
+H&M,https://www.linkedin.com/company/5328/
+宜家集團,https://www.linkedin.com/company/2743/
+Technip,https://www.linkedin.com/company/5124/
+巴克萊,https://www.linkedin.com/company/1426/
+BMW Group,https://www.linkedin.com/company/2387/
+法國巴黎銀行,https://www.linkedin.com/company/1508/
+Worley,https://www.linkedin.com/company/6677/
+Flowserve Corporation,https://www.linkedin.com/company/5927/
+安侯建業,https://www.linkedin.com/company/2525300/
+蘇格蘭皇家銀行,https://www.linkedin.com/company/1730/
+帝亞吉歐,https://www.linkedin.com/company/2496/
+Twitter,https://www.linkedin.com/company/96622/
+Neiman Marcus Group,https://www.linkedin.com/company/157312/
+酩悅軒尼詩有限公司,https://www.linkedin.com/company/164788/
+Novo Nordisk,https://www.linkedin.com/company/2227/
+瑞銀環球資產管理,https://www.linkedin.com/company/1214/
+AMERICAN EAGLE OUTFITTERS INC.,https://www.linkedin.com/company/4960/
+FIS,https://www.linkedin.com/company/3128/
+Univision Communications Inc.,https://www.linkedin.com/company/5775/
+Cargill,https://www.linkedin.com/company/2678/
+Kaiser Permanente,https://www.linkedin.com/company/1550/
+Ensco plc,https://www.linkedin.com/company/238105/
+Saipem,https://www.linkedin.com/company/3592/
+CACI International Inc,https://www.linkedin.com/company/3672/
+DICK'S Sporting Goods,https://www.linkedin.com/company/7789/
+HeadHonchos.com,https://www.linkedin.com/company/1241194/
+新帝公司,https://www.linkedin.com/company/4251/
+ANN INC (Ann Taylor | LOFT | Lou & Grey),https://www.linkedin.com/company/157337/
+Larsen & Toubro,https://www.linkedin.com/company/4837/
+Covance,https://www.linkedin.com/company/5143/
+奧美,https://www.linkedin.com/company/1673/
+香奈兒,https://www.linkedin.com/company/162993/
+Activision,https://www.linkedin.com/company/4048/
+Zimmer Biomet,https://www.linkedin.com/company/6440/
+Randstad,https://www.linkedin.com/company/2327/
+TD,https://www.linkedin.com/company/2775/
+Anthropologie,https://www.linkedin.com/company/8281/
+Nalco Water, An Ecolab Company,https://www.linkedin.com/company/5218/
+利潔時,https://www.linkedin.com/company/3098/
+路易威登,https://www.linkedin.com/company/5790/
+Statoil,https://www.linkedin.com/company/3132/
+Nissan Motor Corporation,https://www.linkedin.com/company/221027/
+源讯中国,https://www.linkedin.com/company/1259/
+Bechtel Corporation,https://www.linkedin.com/company/3304/
+澳新銀行,https://www.linkedin.com/company/2437/
+百靈佳殷格翰股份有限公司,https://www.linkedin.com/company/3235/
+Toyota Motor Corporation,https://www.linkedin.com/company/2109/
+Inditex,https://www.linkedin.com/company/14853/
+Eni,https://www.linkedin.com/company/3591/
+艾奕康,https://www.linkedin.com/company/15656/
+Aker Solutions,https://www.linkedin.com/company/4103/
+B/E Aerospace,https://www.linkedin.com/company/11151/
+荷蘭皇家航空公司,https://www.linkedin.com/company/2441/
+Brown-Forman,https://www.linkedin.com/company/7262/
+Cintas,https://www.linkedin.com/company/5045/
+Banco Itaú,https://www.linkedin.com/company/333329/
+孩之寶,https://www.linkedin.com/company/4934/
+畢博,https://www.linkedin.com/company/1349/
+貝恩策略顧問公司,https://www.linkedin.com/company/2114/
+Noble Energy,https://www.linkedin.com/company/27043/
+索尼,https://www.linkedin.com/company/1252/
+富達投資,https://www.linkedin.com/company/1307/
+RSM US LLP,https://www.linkedin.com/company/3743/
+阿迪達斯,https://www.linkedin.com/company/3748/
+四季酒店,https://www.linkedin.com/company/163883/
+U.S. Department of Veterans Affairs,https://www.linkedin.com/company/23789/
+The World Bank,https://www.linkedin.com/company/166426/
+Natura,https://www.linkedin.com/company/6309/
+TAM,https://www.linkedin.com/company/7527/
+加拿大皇家銀行,https://www.linkedin.com/company/1808/
+Engadget,https://www.linkedin.com/company/101421/
+UNICEF,https://www.linkedin.com/company/4881/
+Bajaj Finserv,https://www.linkedin.com/company/1092003/
+SEPHORA,https://www.linkedin.com/company/6814/
+BlackBerry,https://www.linkedin.com/company/2828/
+Uber,https://www.linkedin.com/company/1815218/
+Wyndham Destinations,https://www.linkedin.com/company/2122/
+Modis,https://www.linkedin.com/company/224006/
+法國興業銀行,https://www.linkedin.com/company/1691/
+Odebrecht,https://www.linkedin.com/company/10217/
+Alstom Power,https://www.linkedin.com/company/2444/
+博思艾倫,https://www.linkedin.com/company/1403/
+Beckman Coulter Diagnostics,https://www.linkedin.com/company/162677/
+JetBlue Airways,https://www.linkedin.com/company/164535/
+Pentair,https://www.linkedin.com/company/165430/
+Genpact,https://www.linkedin.com/company/210064/
+海尼根,https://www.linkedin.com/company/3131/
+騰訊,https://www.linkedin.com/company/166328/
+荷蘭銀行,https://www.linkedin.com/company/1173/
+Tech Mahindra,https://www.linkedin.com/company/3067/
+ESPN,https://www.linkedin.com/company/3595/
+FMC Corporation,https://www.linkedin.com/company/4031/
+Iron Mountain,https://www.linkedin.com/company/3780/
+European Commission,https://www.linkedin.com/company/1809/
+Rio Tinto,https://www.linkedin.com/company/5204/
+高德納集團,https://www.linkedin.com/company/2078/
+美商賽靈思股份有限公司,https://www.linkedin.com/company/3543/
+Cervejaria Ambev,https://www.linkedin.com/company/162402/
+GUESS?, Inc.,https://www.linkedin.com/company/164086/
+Santander Bank, N.A.,https://www.linkedin.com/company/5705/
+博柏利,https://www.linkedin.com/company/8524/
+家樂福,https://www.linkedin.com/company/3046/
+巴克萊資本,https://www.linkedin.com/company/1421/
+SAS,https://www.linkedin.com/company/1491/
+安盛,https://www.linkedin.com/company/2221/
+Ferrari,https://www.linkedin.com/company/7050/
+Telefonica,https://www.linkedin.com/company/2103/
+NHS,https://www.linkedin.com/company/1977/
+United States Postal Service,https://www.linkedin.com/company/3694/
+Qatar Petroleum,https://www.linkedin.com/company/9788/
+Etihad Airways,https://www.linkedin.com/company/15248/
+Petrofac,https://www.linkedin.com/company/322219/
+古奇,https://www.linkedin.com/company/6585/
+NPR,https://www.linkedin.com/company/6577/
+洲際酒店集團,https://www.linkedin.com/company/3549/
+英美煙草集團,https://www.linkedin.com/company/2291/
+Sodexo,https://www.linkedin.com/company/3402/
+BAE Systems,https://www.linkedin.com/company/1882/
+瑪氏食品,https://www.linkedin.com/company/1544/
+亞德諾半導體,https://www.linkedin.com/company/3450/
+Groupe Renault,https://www.linkedin.com/company/2431/
+勞斯萊斯,https://www.linkedin.com/company/3871/
+TechCrunch,https://www.linkedin.com/company/85562/
+Robert Walters,https://www.linkedin.com/company/165757/
+Netflix,https://www.linkedin.com/company/165158/
+Anglo American,https://www.linkedin.com/company/7893/
+Red Bull,https://www.linkedin.com/company/165686/
+Volkswagen AG,https://www.linkedin.com/company/3200/
+尼爾森行銷研究顧問股份有限公司,https://www.linkedin.com/company/1714/
+LG電子,https://www.linkedin.com/company/3503/
+科磊股份有限公司,https://www.linkedin.com/company/2722/
+Diebold Nixdorf,https://www.linkedin.com/company/4458/
+Orange,https://www.linkedin.com/company/1110/
+亞美亞,https://www.linkedin.com/company/1494/
+加拿大豐業銀行,https://www.linkedin.com/company/3139/
+Etisalat,https://www.linkedin.com/company/163700/
+印度工業信貸投資銀行,https://www.linkedin.com/company/2967/
+索尼影業,https://www.linkedin.com/company/1256/
+SGS,https://www.linkedin.com/company/4126/
+BHP,https://www.linkedin.com/company/4509/
+PVH Corp.,https://www.linkedin.com/company/11541/
+CGI,https://www.linkedin.com/company/1415/
+HARMAN International,https://www.linkedin.com/company/6419/
+airtel,https://www.linkedin.com/company/3583/
+Marine Corps Recruiting,https://www.linkedin.com/company/2039/
+T-Mobile,https://www.linkedin.com/company/1392/
+USA TODAY,https://www.linkedin.com/company/5502/
+昆泰,https://www.linkedin.com/company/4057/
+PETRONAS,https://www.linkedin.com/company/7873/
+Airbus,https://www.linkedin.com/company/2734/
+偉創力股份有限公司,https://www.linkedin.com/company/2279/
+Varian Medical Systems,https://www.linkedin.com/company/5628/
+Indra,https://www.linkedin.com/company/4230/
+BOMBARDIER,https://www.linkedin.com/company/2723/
+BT,https://www.linkedin.com/company/1182/
+BRF,https://www.linkedin.com/company/534848/
+UNDP,https://www.linkedin.com/company/1861/
+Accor,https://www.linkedin.com/company/3055/
+International Flavors & Fragrances,https://www.linkedin.com/company/5870/
+特易購PLC,https://www.linkedin.com/company/3266/
+AMEC,https://www.linkedin.com/company/162407/
+Ministère de l'Éducation nationale,https://www.linkedin.com/company/8059/
+Qatar Airways,https://www.linkedin.com/company/10834/
+The Washington Post,https://www.linkedin.com/company/166423/
+Maersk Oil,https://www.linkedin.com/company/164811/
+CNN,https://www.linkedin.com/company/2046/
+智威湯遜,https://www.linkedin.com/company/2529/
+李奧貝納股份有限公司,https://www.linkedin.com/company/2970/
+HuffPost,https://www.linkedin.com/company/56980/
+Barrick Gold Corporation,https://www.linkedin.com/company/11876/
+Axis Bank,https://www.linkedin.com/company/162609/
+樂高,https://www.linkedin.com/company/3724/
+億創理財,https://www.linkedin.com/company/3030/
+Tech Mahindra (formerly Mahindra Satyam),https://www.linkedin.com/company/1857/
+Protiviti,https://www.linkedin.com/company/3920/
+AUDI AG,https://www.linkedin.com/company/5626/
+麗思卡爾頓酒店管理集團,https://www.linkedin.com/company/214203/
+美國哈佛大學,https://www.linkedin.com/company/1646/
+Valeo,https://www.linkedin.com/company/2669/
+漢高股份有限公司,https://www.linkedin.com/company/258644/
+Under Armour,https://www.linkedin.com/company/14140/
+凱悅酒店集團,https://www.linkedin.com/company/220336/
+Emaar,https://www.linkedin.com/company/15006/
+FNB South Africa,https://www.linkedin.com/company/614583/
+西門子醫療,https://www.linkedin.com/company/157241/
+荷蘭合作銀行,https://www.linkedin.com/company/1970/
+CNN BUSINESS,https://www.linkedin.com/company/1747/
+Genentech,https://www.linkedin.com/company/2276/
+HDFC Bank,https://www.linkedin.com/company/164151/
+阿特金斯,https://www.linkedin.com/company/4528/
+星展銀行,https://www.linkedin.com/company/163379/
+聯想,https://www.linkedin.com/company/3653/
+TOTVS,https://www.linkedin.com/company/228296/
+Ferrero,https://www.linkedin.com/company/5472/
+LafargeHolcim,https://www.linkedin.com/company/3475/
+世楷家具,https://www.linkedin.com/company/166153/
+Flipkart,https://www.linkedin.com/company/321062/
+Transocean,https://www.linkedin.com/company/8210/
+酷朋,https://www.linkedin.com/company/355611/
+Agoda,https://www.linkedin.com/company/66719/
+博世北美,https://www.linkedin.com/company/165755/
+Subsea 7,https://www.linkedin.com/company/166184/
+Bajaj Allianz General Insurance,https://www.linkedin.com/company/653474/
+ArcelorMittal,https://www.linkedin.com/company/3727/
+Airbnb,https://www.linkedin.com/company/309694/
+NASA - National Aeronautics and Space Administration,https://www.linkedin.com/company/2003/
+Liberty Mutual Insurance,https://www.linkedin.com/company/2701/
+富士通,https://www.linkedin.com/company/1374/
+Bill & Melinda Gates Foundation,https://www.linkedin.com/company/8736/
+Jaguar Land Rover,https://www.linkedin.com/company/269818/
+泰雷茲,https://www.linkedin.com/company/1951/
+盛世長城,https://www.linkedin.com/company/3290/
+Larsen & Toubro Infotech Ltd (LTI),https://www.linkedin.com/company/4500/
+Reliance Industries Limited,https://www.linkedin.com/company/2378/
+美世,https://www.linkedin.com/company/2423/
+Alaska Airlines,https://www.linkedin.com/company/162359/
+Covidien (Medtronic Minimally Invasive Therapies Group),https://www.linkedin.com/company/899089/
+LAN Airlines,https://www.linkedin.com/company/7258/
+McCormick & Company,https://www.linkedin.com/company/164888/
+拜耳醫療保健事業群,https://www.linkedin.com/company/1894/
+奧雅納,https://www.linkedin.com/company/162534/
+Capgemini Invent,https://www.linkedin.com/company/1075/
+Allstate,https://www.linkedin.com/company/1835/
+馬莎百貨,https://www.linkedin.com/company/4558/
+BG Group,https://www.linkedin.com/company/41804/
+Continental,https://www.linkedin.com/company/3534/
+U.S. Department of Homeland Security,https://www.linkedin.com/company/2998/
+西班牙對外銀行,https://www.linkedin.com/company/4860/
+Wipro Ltd. - India,https://www.linkedin.com/company/1315/
+基華物流,https://www.linkedin.com/company/8434/
+IDEO,https://www.linkedin.com/company/164291/
+沙特基礎工業公司,https://www.linkedin.com/company/165806/
+索尼音樂娛樂,https://www.linkedin.com/company/3039/
+育碧軟體,https://www.linkedin.com/company/2528/
+思傑系統,https://www.linkedin.com/company/2641/
+Takeda,https://www.linkedin.com/company/5482/
+Pirelli,https://www.linkedin.com/company/4134/
+香格里拉酒店集團,https://www.linkedin.com/company/8441/
+CallApp,https://www.linkedin.com/company/2263245/
+Amdocs,https://www.linkedin.com/company/1539/
+翰德國際,https://www.linkedin.com/company/2343/
+Repsol,https://www.linkedin.com/company/165707/
+蘇黎世保險,https://www.linkedin.com/company/2458/
+G4S,https://www.linkedin.com/company/5355/
+卡地亞,https://www.linkedin.com/company/5001/
+加拿大帝國商業銀行,https://www.linkedin.com/company/1826/
+Suncor,https://www.linkedin.com/company/7866/
+高緯物業,https://www.linkedin.com/company/4060/
+英國航空公司,https://www.linkedin.com/company/2962/
+Gerdau,https://www.linkedin.com/company/267101/
+康泰納仕,https://www.linkedin.com/company/3308/
+Lloyds Banking Group,https://www.linkedin.com/company/417361/
+U.S. Department of State,https://www.linkedin.com/company/3100/
+瑞士德迅集团,https://www.linkedin.com/company/4536/
+Fast Company,https://www.linkedin.com/company/2255910/
+Grupo Pao de Acucar,https://www.linkedin.com/company/164068/
+環球唱片,https://www.linkedin.com/company/3007/
+普拉達,https://www.linkedin.com/company/8666/
+Orange Business Services,https://www.linkedin.com/company/1112/
+紐約梅隆銀行,https://www.linkedin.com/company/162750/
+安聯人壽保險股份有限公司,https://www.linkedin.com/company/2979/
+Sandoz,https://www.linkedin.com/company/4891/
+everis,https://www.linkedin.com/company/4127/
+澳洲國民銀行,https://www.linkedin.com/company/2357/
+Luxottica,https://www.linkedin.com/company/1614240/
+Fairmont Hotels & Resorts,https://www.linkedin.com/company/163758/
+Aerotek,https://www.linkedin.com/company/2889/
+CODELCO – Corporación Nacional del Cobre de Chile,https://www.linkedin.com/company/16300/
+Serco,https://www.linkedin.com/company/3647/
+BBC News,https://www.linkedin.com/company/1765/
+Bradesco,https://www.linkedin.com/company/162778/
+SNC-Lavalin,https://www.linkedin.com/company/558123/
+Alcon,https://www.linkedin.com/company/5275/
+阿克蘇諾貝爾,https://www.linkedin.com/company/3222/
+Teva Pharmaceuticals,https://www.linkedin.com/company/5239/
+Red Hat,https://www.linkedin.com/company/3545/
+金雅拓,https://www.linkedin.com/company/2683/
+CB&I,https://www.linkedin.com/company/233024/
+SABMiller,https://www.linkedin.com/company/4784/
+Keller Williams Realty, Inc.,https://www.linkedin.com/company/2224/
+ASOS.com,https://www.linkedin.com/company/61834/
+Mary Kay Global,https://www.linkedin.com/company/2835/
+標準銀行,https://www.linkedin.com/company/3551/
+澳洲電訊,https://www.linkedin.com/company/1636/
+澳洲聯邦銀行,https://www.linkedin.com/company/2848/
+保樂力加集團,https://www.linkedin.com/company/12951/
+USAID,https://www.linkedin.com/company/5044/
+Skanska,https://www.linkedin.com/company/4335/
+National Bank of Abu Dhabi,https://www.linkedin.com/company/20118/
+Abengoa,https://www.linkedin.com/company/245369/
+Consolidated Contractors International Company,https://www.linkedin.com/company/426642/
+TEKsystems,https://www.linkedin.com/company/2152/
+Pixar Animation Studios,https://www.linkedin.com/company/165481/
+必維集團,https://www.linkedin.com/company/162834/
+McDermott International Inc.,https://www.linkedin.com/company/7601/
+Tata Motors,https://www.linkedin.com/company/5665/
+Jumeirah Group / Jumeirah Hotels & Resorts,https://www.linkedin.com/company/8237/
+Mercedes-Benz USA,https://www.linkedin.com/company/164934/
+法商阿爾斯通運輸股份有限公司,https://www.linkedin.com/company/2443/
+EF英孚教育,https://www.linkedin.com/company/4856/
+PUMA Group,https://www.linkedin.com/company/165597/
+CyberCoders,https://www.linkedin.com/company/21836/
+Michael Kors,https://www.linkedin.com/company/20369/
+Turner Construction Company,https://www.linkedin.com/company/5772/
+Parsons Corporation,https://www.linkedin.com/company/4898/
+Smart Communications, Inc.,https://www.linkedin.com/company/8379/
+Bosch,https://www.linkedin.com/company/2508619/
+Dubai Islamic Bank,https://www.linkedin.com/company/10998/
+BBDO Worldwide,https://www.linkedin.com/company/2900/
+HRsource,https://www.linkedin.com/company/980480/
+博斯公司,https://www.linkedin.com/company/224605/
+World Health Organization,https://www.linkedin.com/company/5350/
+Sky,https://www.linkedin.com/company/3318/
+Blizzard Entertainment,https://www.linkedin.com/company/5329/
+Inc. Magazine,https://www.linkedin.com/company/7587/
+GM Financial,https://www.linkedin.com/company/7466/
+Claro Brasil,https://www.linkedin.com/company/4569/
+Sony Electronics,https://www.linkedin.com/company/1253/
+國際金融公司,https://www.linkedin.com/company/4783/
+揚雅,https://www.linkedin.com/company/3459/
+Atlas Copco,https://www.linkedin.com/company/4804/
+JBS,https://www.linkedin.com/company/164528/
+澳商聯盛國際企業股份有限公司,https://www.linkedin.com/company/4853/
+英國文化協會,https://www.linkedin.com/company/162797/
+Mashreq Bank,https://www.linkedin.com/company/11425/
+Project Management Institute,https://www.linkedin.com/company/11352/
+Bloomberg,https://www.linkedin.com/company/6918/
+J.Crew,https://www.linkedin.com/company/6734/
+United States Department of Defense,https://www.linkedin.com/company/7510/
+Embraer,https://www.linkedin.com/company/4211/
+FGV,https://www.linkedin.com/company/8175/
+UniCredit,https://www.linkedin.com/company/3515/
+美國史丹佛大學,https://www.linkedin.com/company/1792/
+Bunge Brasil,https://www.linkedin.com/company/1201156/
+PNC,https://www.linkedin.com/company/4167/
+Michelin,https://www.linkedin.com/company/4101/
+Daimler AG,https://www.linkedin.com/company/163329/
+Syngenta,https://www.linkedin.com/company/3998/
+American Red Cross,https://www.linkedin.com/company/157239/
+Forever 21,https://www.linkedin.com/company/28893/
+WIRED,https://www.linkedin.com/company/6958/
+利樂包裝股份有限公司,https://www.linkedin.com/company/2604/
+AbbVie,https://www.linkedin.com/company/1304385/
+Spotify,https://www.linkedin.com/company/207470/
+Mindtree,https://www.linkedin.com/company/4300/
+Seadrill Careers,https://www.linkedin.com/company/30015/
+Banco do Brasil,https://www.linkedin.com/company/162626/
+Turkcell,https://www.linkedin.com/company/4568/
+Paramount Pictures,https://www.linkedin.com/company/4413/
+美商Infor公司,https://www.linkedin.com/company/1711/
+Donaldson,https://www.linkedin.com/company/9420/
+Badenoch + Clark,https://www.linkedin.com/company/9415/
+ING荷蘭,https://www.linkedin.com/company/215713/
+愛德曼國際公關公司,https://www.linkedin.com/company/3536/
+UNESCO,https://www.linkedin.com/company/166588/
+Lojas Renner S.A.,https://www.linkedin.com/company/52662/
+岱凱,https://www.linkedin.com/company/2632/
+Bunge,https://www.linkedin.com/company/162828/
+Lufthansa,https://www.linkedin.com/company/4231/
+西太平洋銀行,https://www.linkedin.com/company/3597/
+百加得,https://www.linkedin.com/company/162616/
+澳航,https://www.linkedin.com/company/4465/
+CNBC,https://www.linkedin.com/company/1833/
+Fortune Magazine,https://www.linkedin.com/company/11110/
+SpaceX,https://www.linkedin.com/company/30846/
+怡安保險顧問有限公司,https://www.linkedin.com/company/2041/
+Hootsuite,https://www.linkedin.com/company/288540/
+Amazon Web Services (AWS),https://www.linkedin.com/company/2382910/
+CEMEX,https://www.linkedin.com/company/4402/
+SHRM,https://www.linkedin.com/company/11282/
+Al-Futtaim,https://www.linkedin.com/company/11369/
+Faurecia,https://www.linkedin.com/company/4062/
+傳立媒體有限公司,https://www.linkedin.com/company/3764/
+Turkish Airlines,https://www.linkedin.com/company/12458/
+Bulgari,https://www.linkedin.com/company/7507/
+REED,https://www.linkedin.com/company/4699/
+Regus,https://www.linkedin.com/company/4586/
+Emirates NBD,https://www.linkedin.com/company/707016/
+Kohl's,https://www.linkedin.com/company/5749/
+MANGO,https://www.linkedin.com/company/164834/
+培生集團（北美）,https://www.linkedin.com/company/2137/
+金融時報,https://www.linkedin.com/company/4697/
+Coursera,https://www.linkedin.com/company/2453129/
+CNH Industrial,https://www.linkedin.com/company/4622/
+BBC全球,https://www.linkedin.com/company/1763/
+Ecopetrol,https://www.linkedin.com/company/25624/
+Bell,https://www.linkedin.com/company/1531/
+HubSpot,https://www.linkedin.com/company/68529/
+Vestas,https://www.linkedin.com/company/4275/
+湯米席爾菲格,https://www.linkedin.com/company/5826/
+歷峯集團,https://www.linkedin.com/company/5003/
+Carlsberg Group,https://www.linkedin.com/company/4091/
+滿銀,https://www.linkedin.com/company/2587/
+Cencosud S.A.,https://www.linkedin.com/company/15226/
+DreamWorks Animation,https://www.linkedin.com/company/4080/
+泰科電子,https://www.linkedin.com/company/2059/
+致同會計師事務所,https://www.linkedin.com/company/2432/
+雨果博斯,https://www.linkedin.com/company/164238/
+Tata Communications,https://www.linkedin.com/company/4085/
+NES Global Talent,https://www.linkedin.com/company/202782/
+Intesa Sanpaolo,https://www.linkedin.com/company/164437/
+Bayer Crop Science,https://www.linkedin.com/company/1895/
+Cleveland Clinic,https://www.linkedin.com/company/5656/
+GE Oil & Gas,https://www.linkedin.com/company/2744842/
+睿域營銷,https://www.linkedin.com/company/2864/
+Enterprise Rent-A-Car,https://www.linkedin.com/company/157236/
+Wieden + Kennedy,https://www.linkedin.com/company/6304/
+麥格理集團,https://www.linkedin.com/company/3537/
+Groupe PSA,https://www.linkedin.com/company/260214/
+Al Jazeera Media Network,https://www.linkedin.com/company/12676/
+Rencol Components Ltd.,https://www.linkedin.com/company/1365017/
+光輝國際,https://www.linkedin.com/company/3741/
+科進,https://www.linkedin.com/company/222949/
+Dropbox,https://www.linkedin.com/company/167251/
+Vogue,https://www.linkedin.com/company/3311/
+Hill International, Inc.,https://www.linkedin.com/company/11204/
+奇華頓,https://www.linkedin.com/company/4791/
+Aditya Birla Group,https://www.linkedin.com/company/162288/
+AngloGold Ashanti,https://www.linkedin.com/company/15560/
+SC Johnson,https://www.linkedin.com/company/4039/
+lululemon,https://www.linkedin.com/company/22523/
+世界展望會,https://www.linkedin.com/company/5654/
+World Economic Forum,https://www.linkedin.com/company/8193/
+FCA Fiat Chrysler Automobiles,https://www.linkedin.com/company/307851/
+BuzzFeed,https://www.linkedin.com/company/167151/
+Engine,https://www.linkedin.com/company/3537111/
+美國麻省理工學院,https://www.linkedin.com/company/1503/
+Secretaría de Educación Pública,https://www.linkedin.com/company/16476/
+John Lewis & Partners,https://www.linkedin.com/company/7404/
+意法半導體,https://www.linkedin.com/company/1618/
+Sasol,https://www.linkedin.com/company/5708/
+印度國家銀行,https://www.linkedin.com/company/166135/
+英國畢馬威會計師事務所,https://www.linkedin.com/company/1080/
+Walmart eCommerce,https://www.linkedin.com/company/4192/
+UOL,https://www.linkedin.com/company/6668/
+Construtora Andrade Gutierrez,https://www.linkedin.com/company/31315/
+Elsevier,https://www.linkedin.com/company/3027/
+thyssenkrupp,https://www.linkedin.com/company/166442/
+瑞士再保險,https://www.linkedin.com/company/3845/
+Spectrum,https://www.linkedin.com/company/18425303/
+Dr. Reddy's Laboratories,https://www.linkedin.com/company/8126/
+Wood,https://www.linkedin.com/company/9826/
+社團法人國際經濟商管學生會,https://www.linkedin.com/company/2034/
+Time Warner Cable,https://www.linkedin.com/company/2031/
+Federal Aviation Administration,https://www.linkedin.com/company/5039/
+Antal International,https://www.linkedin.com/company/6279/
+Experis,https://www.linkedin.com/company/2203697/
+Saint-Gobain,https://www.linkedin.com/company/2981/
+Barilla Group,https://www.linkedin.com/company/162647/
+Farmers Insurance,https://www.linkedin.com/company/3240/
+恆美國際廣告股份公司,https://www.linkedin.com/company/2976/
+CNET,https://www.linkedin.com/company/2991/
+STC,https://www.linkedin.com/company/166151/
+Housing.com,https://www.linkedin.com/company/2741657/
+Logica,https://www.linkedin.com/company/2347/
+IGATE,https://www.linkedin.com/company/2229436/
+DOLCE&GABBANA S.r.l,https://www.linkedin.com/company/12274/
+Nordea,https://www.linkedin.com/company/2007/
+M. H. Alshaya Co.,https://www.linkedin.com/company/1791859/
+Saint Laurent,https://www.linkedin.com/company/502124/
+Air France,https://www.linkedin.com/company/4242/
+Tableau Software,https://www.linkedin.com/company/206993/
+Royal Caribbean Cruises Ltd.,https://www.linkedin.com/company/165777/
+國泰航空,https://www.linkedin.com/company/7097/
+NBC News,https://www.linkedin.com/company/1827/
+阿里巴巴.com,https://www.linkedin.com/company/14160/
+American Psychological Association,https://www.linkedin.com/company/10738/
+McAfee,https://www.linkedin.com/company/2336/
+Oxfam,https://www.linkedin.com/company/6884/
+Christian Dior高級時裝公司,https://www.linkedin.com/company/17577/
+EDF,https://www.linkedin.com/company/4249/
+GE Aviation,https://www.linkedin.com/company/570550/
+美國密西根大學,https://www.linkedin.com/company/2516/
+博威工程顧問有限公司,https://www.linkedin.com/company/157359/
+WNS Global Services,https://www.linkedin.com/company/5464/
+科爾尼管理咨詢公司,https://www.linkedin.com/company/2196/
+Volvo Cars,https://www.linkedin.com/company/5385/
+喜利得集團,https://www.linkedin.com/company/4205/
+Universal Pictures,https://www.linkedin.com/company/1834/
+DSM,https://www.linkedin.com/company/3108/
+Centers for Disease Control and Prevention,https://www.linkedin.com/company/157336/
+ENGIE,https://www.linkedin.com/company/298246/
+LC Waikiki,https://www.linkedin.com/company/516346/
+Cerner Corporation,https://www.linkedin.com/company/2812/
+Solvay,https://www.linkedin.com/company/4114/
+UBA Group,https://www.linkedin.com/company/41479/
+DOHA BANK,https://www.linkedin.com/company/369739/
+Amadeus,https://www.linkedin.com/company/2780/
+Pizza Hut,https://www.linkedin.com/company/3406/
+莫特麥克唐納,https://www.linkedin.com/company/7253/
+Banco de Crédito BCP,https://www.linkedin.com/company/309361/
+KEO International Consultants,https://www.linkedin.com/company/26514/
+全球國際貨運,https://www.linkedin.com/company/4823/
+Abu Dhabi Commercial Bank,https://www.linkedin.com/company/17598/
+ACCIONA,https://www.linkedin.com/company/31481/
+Mayo Clinic,https://www.linkedin.com/company/4725/
+ADNOC Group,https://www.linkedin.com/company/21999/
+百瑞精鼎國際股份有限公司,https://www.linkedin.com/company/4451/
+Spencer Ogden,https://www.linkedin.com/company/763137/
+Franklin Templeton India,https://www.linkedin.com/company/2470432/
+Bose Corporation,https://www.linkedin.com/company/4030/
+萊恩奧羅克,https://www.linkedin.com/company/164668/
+Hermès,https://www.linkedin.com/company/2999687/
+Servier,https://www.linkedin.com/company/165926/
+Noble Drilling,https://www.linkedin.com/company/23298/
+IMG,https://www.linkedin.com/company/4471/
+NYC Department of Education,https://www.linkedin.com/company/2905/
+Magazine Luiza,https://www.linkedin.com/company/35128/
+Anheuser-Busch InBev,https://www.linkedin.com/company/255188/
+賀寶芙,https://www.linkedin.com/company/5619/
+ROLEX,https://www.linkedin.com/company/9809/
+Sainsbury's,https://www.linkedin.com/company/5015/
+Gensler,https://www.linkedin.com/company/5812/
+TOPSHOP TOPMAN,https://www.linkedin.com/company/762979/
+Grupo Camargo Corrêa,https://www.linkedin.com/company/162867/
+Ad Age,https://www.linkedin.com/company/6259/
+Tata Steel,https://www.linkedin.com/company/166262/
+Randstad España,https://www.linkedin.com/company/1022257/
+Talisman Energy,https://www.linkedin.com/company/10840/
+美國哥倫比亞大學,https://www.linkedin.com/company/2624/
+DNV GL,https://www.linkedin.com/company/4411/
+YPF,https://www.linkedin.com/company/321888/
+Azul Linhas Aéreas Brasileiras,https://www.linkedin.com/company/391974/
+Adecco,https://www.linkedin.com/company/1104359/
+Aquent,https://www.linkedin.com/company/4433/
+Sandvik,https://www.linkedin.com/company/5170/
+希捷科技,https://www.linkedin.com/company/2868/
+Greenpeace,https://www.linkedin.com/company/7458/
+Willis Towers Watson,https://www.linkedin.com/company/3994/
+中興通訊股份有限公司,https://www.linkedin.com/company/5804/
+Aggreko,https://www.linkedin.com/company/13151/
+Nestlé Nespresso SA,https://www.linkedin.com/company/165145/
+L’OCCITANE Group,https://www.linkedin.com/company/164659/
+文華東方酒店集團,https://www.linkedin.com/company/8503/
+Tyco,https://www.linkedin.com/company/2058/
+Ministerio de Educación,https://www.linkedin.com/company/31900/
+美商安達保險集團,https://www.linkedin.com/company/1269/
+Firmenich,https://www.linkedin.com/company/5265/
+Prosegur,https://www.linkedin.com/company/15449/
+NET-A-PORTER,https://www.linkedin.com/company/49596/
+Guardian News & Media,https://www.linkedin.com/company/102206/
+T-Systems International GmbH,https://www.linkedin.com/company/1592/
+Automobili Lamborghini S.p.A.,https://www.linkedin.com/company/51253/
+摩托罗拉系统,https://www.linkedin.com/company/1771432/
+Rogers Communications,https://www.linkedin.com/company/232888/
+馬士基集團,https://www.linkedin.com/company/479080/
+ABC Consultants,https://www.linkedin.com/company/7840/
+Wipro Digital Operations and Platforms,https://www.linkedin.com/company/1317/
+Asian Development Bank (ADB),https://www.linkedin.com/company/5947/
+全國公證檢驗股份有限公司,https://www.linkedin.com/company/6979/
+FICO,https://www.linkedin.com/company/3398/
+美國哈佛商學院,https://www.linkedin.com/company/4867/
+Mobily,https://www.linkedin.com/company/8676/
+基督教青年協會,https://www.linkedin.com/company/5291/
+美國華盛頓大學,https://www.linkedin.com/company/2584/
+Landmark Group,https://www.linkedin.com/company/26500/
+百度,https://www.linkedin.com/company/48433/
+MIT Technology Review,https://www.linkedin.com/company/1145902/
+Compass Group,https://www.linkedin.com/company/852267/
+TELUS,https://www.linkedin.com/company/1974/
+Glencore,https://www.linkedin.com/company/8518/
+European Parliament,https://www.linkedin.com/company/1816/
+VAGAS.com,https://www.linkedin.com/company/290105/
+Foster Wheeler,https://www.linkedin.com/company/5547/
+律商聯訊,https://www.linkedin.com/company/2206/
+Subway,https://www.linkedin.com/company/8093/
+Raízen,https://www.linkedin.com/company/2163762/
+ITC Limited,https://www.linkedin.com/company/619019/
+CWT,https://www.linkedin.com/company/2366/
+Dassault Systèmes,https://www.linkedin.com/company/3896/
+銳步,https://www.linkedin.com/company/4945/
+ING,https://www.linkedin.com/company/2594164/
+法馬蘇提克產品發展有限公司,https://www.linkedin.com/company/4430/
+Electrolux,https://www.linkedin.com/company/3469/
+喬治·亞曼尼,https://www.linkedin.com/company/10474/
+Lucasfilm,https://www.linkedin.com/company/3815/
+香港商益百利有限公司,https://www.linkedin.com/company/2534/
+Chase,https://www.linkedin.com/company/163001/
+Sutherland,https://www.linkedin.com/company/6339/
